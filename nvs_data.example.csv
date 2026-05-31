@@ -1,0 +1,5 @@
+key,type,encoding,value
+config,namespace,,
+ServerAddress,data,string,"your.server.address"
+WifiSsid,data,string,"YOUR_WIFI_SSID"
+WifiPassword,data,string,"YOUR_WIFI_PASSWORD"

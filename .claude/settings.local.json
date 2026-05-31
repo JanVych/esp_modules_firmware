@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Move-Item \"c:\\\\Users\\\\janvy\\\\esp\\\\Projects\\\\esp_modules_firmware\\\\.mcp.json\" \"c:\\\\Users\\\\janvy\\\\esp\\\\Projects\\\\esp_modules_firmware\\\\.vscode\\\\.mcp.json\")",
+      "Bash(code --list-extensions)",
+      "Bash(git ls-remote *)",
+      "Bash(gh repo *)",
+      "Bash(tee __TRACKED_VAR__/vis3.log)",
+      "Bash(tee -a __TRACKED_VAR__/vis3.log)"
+    ]
+  }
+}
